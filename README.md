@@ -83,4 +83,9 @@ pip install -r requirements.txt
 
 # Run the application
 python main.py
-
+```
+---
+## 🔍 Key Learnings
+- Chunk size and embedding strategy significantly impact retrieval quality
+- Prompt engineering plays a critical role in answer accuracy
+- Grounded context reduces hallucinations effectively
